@@ -53,8 +53,6 @@ https://github.com/KASEKK/brugis-heritage-pipeline
 
 # My Skill Set
 
-# My Skill Set
-
 <table><tr><td valign="top" width="33%">
 
 ### Data & Analytics
