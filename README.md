@@ -1,6 +1,4 @@
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
+ 
 
 ### <div align="center">👋 Hello, I’m Sabrina – junior data analyst & data pipeline enthusiast with a background in social policy and a strong interest in ethical tech & social impact</div>  
 
@@ -17,6 +15,43 @@
 ✨ Fun fact: I’m building tools to help **women navigate career transitions into tech and data**.
 
 <br/>
+
+✨ Fun fact: I’m building tools to help **women navigate career transitions into tech and data**.
+
+<br/>
+
+## Featured Projects
+
+### INASTI Data Scraper
+Automated pipeline to retrieve statistical tables from the Belgian INASTI (RSVZ) website.
+
+The project generates API payloads based on a configuration file, sends automated POST requests to the INASTI API, and downloads the resulting datasets as structured Excel files.  
+The workflow can be orchestrated with an Apache Airflow DAG.
+
+**Tech stack:**  
+Python, Requests, Pandas, API extraction, Airflow
+
+🔗 Repository  
+https://github.com/KASEKK/inasti-data-scraper
+
+---
+
+### BruGIS Heritage Data Pipeline
+Automated geospatial data pipeline retrieving heritage site data from the BruGIS WFS service.
+
+The pipeline downloads geospatial datasets in GeoPackage format, processes them using GeoPandas, computes spatial indicators and generates structured Excel reports.
+
+The workflow can be scheduled and monitored using an Apache Airflow DAG.
+
+**Tech stack:**  
+Python, GeoPandas, Pandas, OpenPyXL, WFS extraction, Airflow
+
+🔗 Repository  
+https://github.com/KASEKK/brugis-heritage-pipeline
+
+<br/>
+
+# My Skill Set
 
 # My Skill Set
 
