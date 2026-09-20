@@ -1,8 +1,8 @@
  
 
-### <div align="center">👋 Hello, I’m Sabrina – junior data analyst & data pipeline enthusiast with a background in social policy and a strong interest in ethical tech & social impact</div>  
+### <div align="center">👋 Hello, I’m Sabrina – junior data analyst with a background in social policy and a strong interest in ethical tech & social impact</div>  
 
-- 🧠 I’m currently training in **Big Data & Business Intelligence** while completing a **Master’s in Economic and Social Policies**.
+- 🧠 I’m currently training in **Big Data & Business Intelligence** while just finishing a **Master’s in Economic and Social Policies**.
 
 - 🛠️ My profile bridges **data analysis, public policy and social insight**. I enjoy transforming complex datasets into structured and meaningful information.
 
@@ -11,12 +11,6 @@
 - 📊 I work mainly with **Python, SQL, Pandas, GeoPandas, Airflow and Power BI**.
 
 - 💬 Ask me anything about **open data, social data, policy analysis or data pipelines**.
-
-✨ Fun fact: I’m building tools to help **women navigate career transitions into tech and data**.
-
-<br/>
-
-✨ Fun fact: I’m building tools to help **women navigate career transitions into tech and data**.
 
 <br/>
 
@@ -44,7 +38,7 @@ The pipeline downloads geospatial datasets in GeoPackage format, processes them 
 The workflow can be scheduled and monitored using an Apache Airflow DAG.
 
 **Tech stack:**  
-Python, GeoPandas, Pandas, OpenPyXL, WFS extraction, Airflow
+Python, GeoPandas, Pandas, OpenPyXL, Airflow
 
 🔗 Repository  
 https://github.com/KASEKK/brugis-heritage-pipeline
